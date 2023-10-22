@@ -1,0 +1,12 @@
+.imagelist{
+    columns: 250px 5;
+    padding: 3rem 3rem;
+    column-gap: 60px;
+}
+.imagelistimage{
+    width: 100%;
+    margin-bottom: 60px;
+    border: solid 1px #ddd;
+    padding: 10px;
+    border-radius: 10px;
+}
